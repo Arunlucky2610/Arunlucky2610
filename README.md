@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=⚡+Building+Autonomous+AI+Agents+%26+Multi-Agent+Systems;🧠+Specializing+in+RAG%2C+LLMs+%26+Intelligent+Workflows;🚀+Architecting+Full-Stack+AI+SaaS+(Next.js+%2B+FastAPI);🎯+Turning+Complex+Ideas+into+Production-Ready+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agents;Specializing+in+RAG+and+LLMs;Full+Stack+AI+SaaS+Developer;Crafting+Production+Ready+Software" alt="Typing SVG" />
   </a>
 </p>
 
