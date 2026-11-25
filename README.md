@@ -1,40 +1,148 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=220&section=header&text=Arun%20Sudhaveni&fontSize=68&fontColor=ffffff&animation=fadeIn&subtext=AI%20%26%20Autonomous%20Agent%20Engineer%20•%20Full-Stack%20Developer&subfontSize=18&subfontColor=cbd5e1" alt="Arun Sudhaveni Header Banner" width="100%">
+</p>
 
-<!--
-**Arunlucky2610/Arunlucky2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agents;Full-Stack+AI+SaaS+Developer;Specializing+in+RAG+%26+Generative+AI;Crafting+Production-Ready+Next.js+%2B+FastAPI+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...a
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-📡 I’m currently working on<br>AI-powered applications, Full Stack projects, and intelligent learning platforms.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>AI/ML, Generative AI, RAG, Full Stack, and open-source projects.<br><br>🤝 I’m looking for help with<br>Building scalable AI systems and improving real-world production applications.<br><br>🌱 I’m currently learning<br>Advanced Generative AI, RAG pipelines, LLMs, AI Agents, and System Design.<br><br>💬 Ask me about<br>React, Python, AI/ML, Full Stack Development, RAG, and hackathon projects.<br><br>⚡ Fun fact<br>I love building projects, experimenting with new AI tools, and turning ideas into working products.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhaveni_arun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arun-sudhaveni-072a3a2b4/) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Arunlucky2610&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Arunlucky2610&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arunlucky2610&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arunlucky2610&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arun-sudhaveni-072a3a2b4/"><img src="https://img.shields.io/badge/LinkedIn-Arun%20Sudhaveni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:237r1a66b7@cmrtc.ac.in"><img src="https://img.shields.io/badge/Email-237r1a66b7%40cmrtc.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/sudhaveni_arun"><img src="https://img.shields.io/badge/Instagram-sudhaveni__arun-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arunlucky2610&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I am a passionate **Computer Science Engineering student** and **AI Engineer** specializing in **Autonomous Agents**, **Retrieval-Augmented Generation (RAG)**, and **Full-Stack AI SaaS architectures**. I love architecting end-to-end intelligent systems that automate complex real-world workflows and bridge cutting-edge LLMs with production-grade backends.
+
+* 🔭 **Currently Building:** High-impact autonomous AI agents and enterprise-grade multi-tenant SaaS platforms.
+* 🧠 **Specialties:** Multi-agent orchestration, headless browser automation, semantic search, and dual-model cost optimization.
+* 🎓 **Education:** B.Tech in Computer Science & Engineering at **CMR Technical Campus (CMRC)**.
+* 🤝 **Collaborating On:** Open-source AI tools, GenAI pipelines, and modern full-stack web applications.
+* 💬 **Ask Me About:** Python, FastAPI, React/Next.js, LangChain, ChromaDB, Autonomous Agents, and System Architecture.
+
+---
+
+### 🚀 Featured Flagship Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Autonomous AI Job Agent</h3>
+      <p align="center">
+        <a href="https://github.com/Arunlucky2610/AI-JOB-AGNET">
+          <img src="https://github.com/Arunlucky2610/AI-JOB-AGNET/raw/main/assets/job-agent-pro.gif" alt="AI Job Agent" width="100%">
+        </a>
+      </p>
+      <p>An intelligent agentic system that automates the end-to-end job search workflow: discovers vacancies across <b>LinkedIn, Indeed, Naukri & Internshala</b>, performs sub-second triage with <b>Jev</b>, scores fit with <b>DeepSeek</b>, dynamically rewrites resumes, and automates <b>Easy Apply</b> submissions via headless browser automation.</p>
+      <p align="center">
+        <a href="https://github.com/Arunlucky2610/AI-JOB-AGNET"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 AI CampusOS</h3>
+      <p align="center">
+        <a href="https://github.com/Arunlucky2610/AICampusOs">
+          <img src="https://github.com/Arunlucky2610/AICampusOs/raw/main/assets/campus-os-pro.gif" alt="AI CampusOS" width="100%">
+        </a>
+      </p>
+      <p>A production-ready full-stack EdTech AI SaaS platform uniting <b>Students, Faculty, Placements, Parents, and Admins</b>. Features 24/7 syllabus-grounded AI tutoring, voice/code AI mock interviews, automated ATS resume scoring, LeetCode/GitHub telemetry, and early-warning ML risk prediction.</p>
+      <p align="center">
+        <a href="https://github.com/Arunlucky2610/AICampusOs"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Proficiencies
+
+<table>
+  <tr>
+    <td width="20%"><b>Artificial Intelligence</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/DeepSeek-1E40AF?style=flat-square" alt="DeepSeek">
+      <img src="https://img.shields.io/badge/Groq-Cloud-F55036?style=flat-square" alt="Groq">
+      <img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=flat-square" alt="RAG">
+      <img src="https://img.shields.io/badge/ChromaDB-Vector_DB-F97316?style=flat-square" alt="ChromaDB">
+      <img src="https://img.shields.io/badge/Autonomous_Agents-009688?style=flat-square" alt="Agents">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases & Storage</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy">
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Browserbase-4F46E5?style=flat-square" alt="Browserbase">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunlucky2610&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunlucky2610&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunlucky2610&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="60%">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,25&height=90&section=footer" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arunlucky2610&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views">
+</p>
